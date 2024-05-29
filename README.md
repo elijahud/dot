@@ -24,4 +24,4 @@ This repository contains my personal configuration files for various programs on
 
 Explore further: Check out my dotfiles for the specifics of my configuration. (Due to my laziness i tweak this a lil by using [NvChad](https://nvchad.com/))
 
-![Desktop]("https://github.com/Elichapo/dot/blob/main/Images/arch2.png")
+![Desktop]("https://github.com/elichapo/dot/blob/main/Images/arch2.png")
